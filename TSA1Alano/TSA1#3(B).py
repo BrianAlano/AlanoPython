@@ -9,5 +9,4 @@ def pattern_while():
         print()
         i += 2
 
-# Call the function to display the pattern
 pattern_while()

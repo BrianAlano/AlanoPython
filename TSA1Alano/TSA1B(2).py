@@ -7,7 +7,5 @@ def sum_of_digits(input_string):
 
     print(f"Sum of digits: {total}")
 
-
-# Example usage:
 input_str = input("Enter a string with digits: ")
 sum_of_digits(input_str)

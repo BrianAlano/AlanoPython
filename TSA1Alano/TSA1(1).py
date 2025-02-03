@@ -21,7 +21,5 @@ def count_characters(input_string):
     print(f"Spaces: {spaces}")
     print(f"Other characters: {other_count}")
 
-
-# Example usage:
 input_str = input("Enter a string: ")
 count_characters(input_str)

@@ -8,5 +8,4 @@ def pattern_for():
             print(k, end="")
         print()
 
-# Call the function to display the pattern
 pattern_for()
